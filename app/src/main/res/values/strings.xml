@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notimesy</string>
+
+    <string name="id_text">Id</string>
+    <string name="nombre_text">Nombre</string>
+
+    <string name="btnCrear">Crear</string>
+    <string name="btnAceptar">Aceptar</string>
+
+
+</resources>
